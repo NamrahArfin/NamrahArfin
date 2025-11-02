@@ -1,8 +1,15 @@
 # 💫 About Me:
-👋 Hey there! Welcome to my GitHub!<br>I'm Namrah Arfin, a B.Tech pre-final year student in Computer Science Engineering. I enjoy coding, problem-solving, and exploring new technologies.<br><br>🔹 About Me:<br><br>🔧 I’m currently working on: Building projects in Web Development and Data Structures & Algorithms.<br>👯 I’m looking to collaborate on: Open-source projects, hackathons, and exciting tech innovations.<br>🤝 I’m looking for help with: Competitive programming and building up concepts with projects.<br>🌱 I’m currently learning: DSA, Web Development, and exploring App Development.<br>💬 Ask me about: Java,C,C++,HTML,CSS,Javascript, Python, DSA, and anything tech-related!<br>⚡ Fun fact: I love debugging code more than writing it! 😆<br>📫 Let’s connect: https://linkedin.com/in/namraharfin<br><br>🚀 Explore my repositories and feel free to collaborate! Happy coding! 😃
+👋 Hey there! Welcome to my GitHub!<br>I'm Namrah Arfin, a B.Tech pre-final year student in Computer Science Engineering. I enjoy coding, problem-solving, and exploring new technologies.<br><br>
+<br><br>🔧 I’m currently working on: Building projects in Web Development and Data Structures & Algorithms.<br>
+👯 I’m looking to collaborate on: Open-source projects, hackathons, and exciting tech innovations.<br>
+🤝 I’m looking for help with: Competitive programming and building up concepts with projects.<br>
+🌱 I’m currently learning: DSA, Web Development, and exploring App Development.<br>
+💬 Ask me about: Java, C, HTML, CSS, Javascript, Python, Data Structure & Algorithms and anything tech-related!<br>
+⚡ Fun fact: I love debugging code more than writing it! 😆<br>
+📫 Let’s connect: https://linkedin.com/in/namraharfin<br><br>
+🚀 Explore my repositories and feel free to collaborate! Happy coding!😃
 
 
-## 🌐 Socials:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/namraharfin)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Namrah_Arfin/)
