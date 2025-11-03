@@ -147,13 +147,13 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGZreHRtNm96Ymo0Y3NlbzV4a292OXRrZmJnZ2llZnE0ZzQ0bnNvMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Girl Gif">
-</p>
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODA5Ym00Z25mdnk4bjZ1dzB3MXJsa2NoMW5tOGlsem9nNDVsZnVveSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="600" alt="Coding Girl Gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGZreHRtNm96Ymo0Y3NlbzV4a292OXRrZmJnZ2llZnE0ZzQ0bnNvMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding Girl 1" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o4MXJvbmoxbHU5cHVnN2xjM3djeGJ4bXNsMjE0aXFtbGk3em51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="280" alt="Coding Girl 3" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODA5Ym00Z25mdnk4bjZ1dzB3MXJsa2NoMW5tOGlsem9nNDVsZnVveSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="280" alt="Coding Girl 2" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
