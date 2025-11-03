@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o4MXJvbmoxbHU5cHVnN2xjM3djeGJ4bXNsMjE0aXFtbGk3em51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="300" height="100" alt="female coder gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o4MXJvbmoxbHU5cHVnN2xjM3djeGJ4bXNsMjE0aXFtbGk3em51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="500" height="280" alt="female coder gif">
 </p>
 
 
