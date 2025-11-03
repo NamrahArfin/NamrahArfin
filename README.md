@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Namrah Arfin</h1>
+<h3 align="center">✨ Software Engineer | Tech Enthusiast | Open Source Contributor ✨</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8A8&center=true&vCenter=true&width=550&lines=💻+Passionate+Software+Engineer;🚀+Web+Developer+(Java+%26+Frontend);🌱+Learning+by+Building+Projects;🌏+AIT+Bangkok+Intern+(2025);☁️+Cloud+%26+Open+Source+Explorer" alt="Typing SVG" />
+</p>
+
+
 # 💫 About Me:
 👋 Hey there! Welcome to my GitHub!<br>I'm Namrah Arfin, a B.Tech pre-final year student in Computer Science Engineering. I enjoy coding, problem-solving, and exploring new technologies.<br><br>
 <br><br>🔧 I’m currently working on: Building projects in Web Development and Data Structures & Algorithms.<br>
