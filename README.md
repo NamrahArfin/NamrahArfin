@@ -22,9 +22,10 @@
 
 
 
-# 💫 About Me:
-👋 Hey there! Welcome to my GitHub!<br>I'm Namrah Arfin, a B.Tech pre-final year student in Computer Science Engineering. I enjoy coding, problem-solving, and exploring new technologies.<br><br>
-<br><br>🔧 I’m currently working on: Building projects in Web Development and Data Structures & Algorithms.<br>
+## 💫 About Me:
+👋 Hey there! Welcome to my GitHub!<br>I'm Namrah Arfin, a B.Tech pre-final year student in Computer Science Engineering. I enjoy coding, problem-solving, and exploring new technologies.<br>
+
+🔧 I’m currently working on: Building projects in Web Development and Data Structures & Algorithms.<br>
 👯 I’m looking to collaborate on: Open-source projects, hackathons, and exciting tech innovations.<br>
 🤝 I’m looking for help with: Competitive programming and building up concepts with projects.<br>
 🌱 I’m currently learning: DSA, Web Development, and exploring App Development.<br>
@@ -41,7 +42,7 @@
 
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/namraharfin)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Namrah_Arfin/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/namrah_arfin/)
@@ -103,7 +104,7 @@
 
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=NamrahArfin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NamrahArfin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamrahArfin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -147,12 +148,20 @@
 </p>
 
 
+# ✨ A Peek Into My Developer Universe 🌌
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGZreHRtNm96Ymo0Y3NlbzV4a292OXRrZmJnZ2llZnE0ZzQ0bnNvMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding Girl 1" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o4MXJvbmoxbHU5cHVnN2xjM3djeGJ4bXNsMjE0aXFtbGk3em51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="280" alt="Coding Girl 3" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODA5Ym00Z25mdnk4bjZ1dzB3MXJsa2NoMW5tOGlsem9nNDVsZnVveSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="280" alt="Coding Girl 2" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGZreHRtNm96Ymo0Y3NlbzV4a292OXRrZmJnZ2llZnE0ZzQ0bnNvMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" height="180" alt="Coding Girl 1" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o4MXJvbmoxbHU5cHVnN2xjM3djeGJ4bXNsMjE0aXFtbGk3em51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="250" height="180" alt="Coding Girl 2" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODA5Ym00Z25mdnk4bjZ1dzB3MXJsa2NoMW5tOGlsem9nNDVsZnVveSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="250" height="180" alt="Coding Girl 3" />
+</p>
+
+
+<p align="center">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGZreHRtNm96Ymo0Y3NlbzV4a292OXRrZmJnZ2llZnE0ZzQ0bnNvMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2RteXB6dGdwZGI1b2EzZmltdDEycDZjczN0Ym44cTJiNTI5Y290aCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/JpLVqOg8xTY3EmoYF7/giphy.gif)" width="250" height="180" alt="Coding Girl 4" />
+  <img src="[https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODA5Ym00Z25mdnk4bjZ1dzB3MXJsa2NoMW5tOGlsem9nNDVsZnVveSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjc3Z3ZldzZpdzFrZHJmb281NHhxdGx2YXUyZjVybDNnZ3JlNWo0OSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1MSVKRopegDjYONwdF/giphy.gif)" width="250" height="180" alt="Coding Girl 6" />
+  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o4MXJvbmoxbHU5cHVnN2xjM3djeGJ4bXNsMjE0aXFtbGk3em51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2RteXB6dGdwZGI1b2EzZmltdDEycDZjczN0Ym44cTJiNTI5Y290aCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3NyvreZAtNLrNKTrKa/giphy.gif)" width="250" height="180" alt="Coding Girl 5" />
 </p>
 
 
