@@ -6,6 +6,24 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Namrah+Arfin!;Software+Engineer+💻;Web+Developer+🌐;AIT+Thailand+Intern’25+🇹🇭;Learning+by+Building+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/Images/pulse.gif" width="100%" height="4">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTcyajVjdm50b2RvdjJ1am1xZjdoZTh0czJ5bnljOTdkbjUzNWxycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="450" alt="girl coding minimal gif">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
+
+
+
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="coding girl gif">
