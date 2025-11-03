@@ -88,12 +88,25 @@
 </p>
 
 
+# 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Namrah_Arfin?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
 
 
 # 📊 GitHub Stats
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=NamrahArfin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NamrahArfin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamrahArfin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 
 <p align="center">
@@ -166,6 +179,7 @@
 </p>
 
 <div align="center">
+  
   ![snake gif](https://github.com/NamrahArfin/NamrahArfin/blob/output/github-snake-dark.svg)
 </div>
 
