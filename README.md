@@ -141,4 +141,19 @@
   </a>
 </p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGZreHRtNm96Ymo0Y3NlbzV4a292OXRrZmJnZ2llZnE0ZzQ0bnNvMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Girl Gif">
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODA5Ym00Z25mdnk4bjZ1dzB3MXJsa2NoMW5tOGlsem9nNDVsZnVveSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="600" alt="Coding Girl Gif">
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
