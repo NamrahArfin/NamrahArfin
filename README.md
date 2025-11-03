@@ -112,9 +112,6 @@
 # 🪄 Achievements & Badges
 [![An image of @namraharfin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namraharfin)](https://holopin.io/@namraharfin)
 
----
-[![](https://visitcount.itsvg.in/api?id=NamrahArfin&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 <p align="center">
