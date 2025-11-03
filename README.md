@@ -96,7 +96,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
 
 
 
@@ -107,7 +109,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamrahArfin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
 
 
 # 🪄 Achievements & Badges
@@ -117,6 +121,10 @@
 [![](https://visitcount.itsvg.in/api?id=NamrahArfin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
 
 
 # 🌐 Connect with Me
