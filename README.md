@@ -2,14 +2,18 @@
 <h3 align="center">✨ Software Engineer | Web Developer | AIT Thailand Intern'25 ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8A8&center=true&vCenter=true&width=550&lines=💻+Passionate+Software+Engineer;🚀+Web+Developer+(Java+%26+Frontend);🌱+Learning+by+Building+Projects;🌏+AIT+Bangkok+Intern+(2025);☁️+Cloud+%26+Open+Source+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Namrah+Arfin!;Software+Engineer+💻;Web+Developer+🌐;AIT+Thailand+Intern’25+🇹🇭;Learning+by+Building+🚀;Exploring+Tech+Innovations+✨" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="800" alt="Coding GIF" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="coding girl gif">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="480" alt="female coder gif">
+</p>
 
 
 
