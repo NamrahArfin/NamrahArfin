@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Namrah Arfin</h1>
-<h3 align="center">✨ Software Engineer | Tech Enthusiast | Open Source Contributor ✨</h3>
+<h1 align="center">Hi 👋, I'm Namrah Arfin!</h1>
+<h3 align="center">✨ Software Engineer | Web Developer | AIT Thailand Intern'25 ✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8A8&center=true&vCenter=true&width=550&lines=💻+Passionate+Software+Engineer;🚀+Web+Developer+(Java+%26+Frontend);🌱+Learning+by+Building+Projects;🌏+AIT+Bangkok+Intern+(2025);☁️+Cloud+%26+Open+Source+Explorer" alt="Typing SVG" />
 </p>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/8MupZHY.gif" width="800" alt="Coding GIF" />
+</p>
+
+
+
 
 
 # 💫 About Me:
@@ -18,6 +26,11 @@
 🚀 Explore my repositories and feel free to collaborate! Happy coding!😃
 
 
+
+
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/namraharfin)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Namrah_Arfin/)
@@ -26,6 +39,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_namrah__)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/namraharfin)
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Namrah-Arfin)
+
+
+
+
 
 
 
@@ -48,7 +65,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+
+
+
+
 ---
+
+
 
 ### 🧰 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,15 +86,39 @@
 
 
 
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NamrahArfin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NamrahArfin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamrahArfin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+
+
+
+# 🪄 Achievements & Badges
 [![An image of @namraharfin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namraharfin)](https://holopin.io/@namraharfin)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NamrahArfin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+# 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/namraharfin/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/NamrahArfin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/namrah_arfin/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="48" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
