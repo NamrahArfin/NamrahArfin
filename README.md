@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Namrah Arfin!</h1>
+<h1 align="center">Hello, I'm Namrah Arfin!</h1>
 <h3 align="center">✨ Software Engineer | Web Developer | AIT Thailand Intern'25 ✨</h3>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=I'm+Namrah+Arfin;Software+Engineer;Web+Developer;AIT+Thailand+Intern'25" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
@@ -18,8 +26,8 @@
 
 
 
-# 💫 About Me:
-👋 Hey there! Welcome to my GitHub!<br>I'm Namrah Arfin, a B.Tech pre-final year student in Computer Science Engineering. I enjoy coding, problem-solving, and exploring new technologies.<br>
+# 💫 About Me
+I'm a B.Tech pre-final year student in Computer Science Engineering. I enjoy coding, problem-solving, and exploring new technologies.<br><br>
 
 🔧 I’m currently working on: Building projects in Web Development and Data Structures & Algorithms.<br>
 👯 I’m looking to collaborate on: Open-source projects, hackathons, and exciting tech innovations.<br>
