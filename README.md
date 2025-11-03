@@ -26,7 +26,7 @@
 🤝 I’m looking for help with: Competitive programming and building up concepts with projects.<br>
 🌱 I’m currently learning: DSA, Web Development, and exploring App Development.<br>
 💬 Ask me about: Java, HTML, CSS, Javascript, Python, Data Structure & Algorithms and anything tech-related!<br>
-⚡ Fun fact: I love debugging code more than writing it! 😆<br>
+⚡ Fun fact: I love debugging code more than writing it! 😆<br><br>
 📫 Let’s connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/namraharfin)<br><br>
 🚀 Explore my repositories and feel free to collaborate! Happy coding!😃
 
