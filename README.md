@@ -161,4 +161,11 @@
 </p>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
+
+<div align="center">
+  ![snake gif](https://github.com/NamrahArfin/NamrahArfin/blob/output/github-snake-dark.svg)
+</div>
 
