@@ -159,9 +159,9 @@
 
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGZreHRtNm96Ymo0Y3NlbzV4a292OXRrZmJnZ2llZnE0ZzQ0bnNvMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2RteXB6dGdwZGI1b2EzZmltdDEycDZjczN0Ym44cTJiNTI5Y290aCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/JpLVqOg8xTY3EmoYF7/giphy.gif)" width="250" height="180" alt="Coding Girl 4" />
-  <img src="[https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODA5Ym00Z25mdnk4bjZ1dzB3MXJsa2NoMW5tOGlsem9nNDVsZnVveSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjc3Z3ZldzZpdzFrZHJmb281NHhxdGx2YXUyZjVybDNnZ3JlNWo0OSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1MSVKRopegDjYONwdF/giphy.gif)" width="250" height="180" alt="Coding Girl 6" />
-  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o4MXJvbmoxbHU5cHVnN2xjM3djeGJ4bXNsMjE0aXFtbGk3em51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2RteXB6dGdwZGI1b2EzZmltdDEycDZjczN0Ym44cTJiNTI5Y290aCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3NyvreZAtNLrNKTrKa/giphy.gif)" width="250" height="180" alt="Coding Girl 5" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2RteXB6dGdwZGI1b2EzZmltdDEycDZjczN0Ym44cTJiNTI5Y290aCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/JpLVqOg8xTY3EmoYF7/giphy.gif" width="250" height="180" alt="Coding Girl 4" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjc3Z3ZldzZpdzFrZHJmb281NHhxdGx2YXUyZjVybDNnZ3JlNWo0OSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1MSVKRopegDjYONwdF/giphy.gif" width="250" height="180" alt="Coding Girl 6" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2RteXB6dGdwZGI1b2EzZmltdDEycDZjczN0Ym44cTJiNTI5Y290aCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3NyvreZAtNLrNKTrKa/giphy.gif" width="250" height="180" alt="Coding Girl 5" />
 </p>
 
 
