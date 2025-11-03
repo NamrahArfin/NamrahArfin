@@ -7,9 +7,8 @@
 
 
 
-
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o4MXJvbmoxbHU5cHVnN2xjM3djeGJ4bXNsMjE0aXFtbGk3em51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="100%" alt="female coder gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o4MXJvbmoxbHU5cHVnN2xjM3djeGJ4bXNsMjE0aXFtbGk3em51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="280" alt="female coder gif">
 </p>
 
 
@@ -26,9 +25,9 @@
 👯 I’m looking to collaborate on: Open-source projects, hackathons, and exciting tech innovations.<br>
 🤝 I’m looking for help with: Competitive programming and building up concepts with projects.<br>
 🌱 I’m currently learning: DSA, Web Development, and exploring App Development.<br>
-💬 Ask me about: Java, C, HTML, CSS, Javascript, Python, Data Structure & Algorithms and anything tech-related!<br>
+💬 Ask me about: Java, HTML, CSS, Javascript, Python, Data Structure & Algorithms and anything tech-related!<br>
 ⚡ Fun fact: I love debugging code more than writing it! 😆<br>
-📫 Let’s connect: https://linkedin.com/in/namraharfin<br><br>
+📫 Let’s connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/namraharfin)<br><br>
 🚀 Explore my repositories and feel free to collaborate! Happy coding!😃
 
 
@@ -45,9 +44,6 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/namrah_arfin/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:namraharfin30@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_namrah__)
-[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/namraharfin)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Namrah-Arfin)
-
 
 
 
@@ -107,6 +103,7 @@
 
 
 # 🪄 Achievements & Badges
+
 [![An image of @namraharfin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namraharfin)](https://holopin.io/@namraharfin)
 
 
@@ -119,15 +116,27 @@
 # 🌐 Connect with Me
 
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/namraharfin/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
+  <a href="https://leetcode.com/u/namraharfin/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="48" />
+  </a>
+  
   <a href="https://github.com/NamrahArfin" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  
   <a href="https://www.geeksforgeeks.org/user/namrah_arfin/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="48" />
   </a>
+
+  <a href="mailto:namraharfin30@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="48" />
+  </a>
+  
 </p>
 
 
