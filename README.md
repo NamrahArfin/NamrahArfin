@@ -108,6 +108,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamrahArfin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
+### <p align="center">Contributions</p>
+
+<div align="center">
+  
+  ![snake gif](https://github.com/NamrahArfin/NamrahArfin/blob/output/github-snake-dark.svg)
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
@@ -177,9 +183,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
 </p>
-
-<div align="center">
-  
-  ![snake gif](https://github.com/NamrahArfin/NamrahArfin/blob/output/github-snake-dark.svg)
-</div>
-
