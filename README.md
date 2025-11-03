@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o4MXJvbmoxbHU5cHVnN2xjM3djeGJ4bXNsMjE0aXFtbGk3em51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="280" alt="female coder gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o4MXJvbmoxbHU5cHVnN2xjM3djeGJ4bXNsMjE0aXFtbGk3em51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="300" height="100" alt="female coder gif">
 </p>
 
 
@@ -26,8 +26,7 @@
 🤝 I’m looking for help with: Competitive programming and building up concepts with projects.<br>
 🌱 I’m currently learning: DSA, Web Development, and exploring App Development.<br>
 💬 Ask me about: Java, HTML, CSS, Javascript, Python, Data Structure & Algorithms and anything tech-related!<br>
-⚡ Fun fact: I love debugging code more than writing it! 😆<br><br>
-📫 Let’s connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/namraharfin)<br><br>
+⚡ Fun fact: I love debugging code more than writing it! 😆<br>
 🚀 Explore my repositories and feel free to collaborate! Happy coding!😃
 
 
