@@ -130,6 +130,9 @@ I'm a B.Tech pre-final year student in Computer Science Engineering. I enjoy cod
 
 # 🪄 Achievements & Badges
 
+<h2>My Hacktoberfest Badges</h2>
+
+
 [![An image of @namraharfin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namraharfin)](https://holopin.io/@namraharfin)
 
 
