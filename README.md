@@ -27,7 +27,7 @@
 
 
 # 💫 About Me
-I'm a B.Tech pre-final year student in Computer Science Engineering. I enjoy coding, problem-solving, and exploring new technologies.<br><br>
+I'm a B.Tech final year student in Computer Science Engineering. I enjoy coding, problem-solving, and exploring new technologies.<br><br>
 
 🔧 I’m currently working on: Building projects in Web Development and Data Structures & Algorithms.<br>
 👯 I’m looking to collaborate on: Open-source projects, hackathons, and exciting tech innovations.<br>
